@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": "2",
+      "name": "navdiya kartik",
+      "photo": "https://media.istockphoto.com/photos/millennial-male-team-leader-organize-virtual-workshop-with-employees-picture-id1300972574?b=1&k=20&m=1300972574&s=170667a&w=0&h=2nBGC7tr0kWIU8zRQ3dMg-C5JLo9H2sNUuDjQ5mlYfo=",
+      "mobile": "9712888776",
+      "email": "navdiya@gmail.com",
+      "title": "back end Devloper",
+      "company": "facebook meta",
+      "group": "5"
+    },
+    {
+      "id": "3",
+      "name": "nillu navdiya",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "mobile": "9712666885",
+      "email": "navdiya@gmail.com",
+      "title": "back end Devloper",
+      "company": "meta",
+      "group": "1"
+    },
+    {
+      "name": "tappu",
+      "photo": "https://static-cse.canva.com/blob/914998/1600w-EW4cggXkgbc.jpg",
+      "mobile": "99999999",
+      "email": "hgfhgf@gmail.com",
+      "company": "htrh",
+      "title": "md",
+      "group": "2",
+      "id": "pZkqh05"
+    },
+    {
+      "name": "kishan",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ102t4cU9N7FsLEM7zY5DrQEJAJzxybt2NQ&usqp=CAU",
+      "mobile": "886641717",
+      "email": "kishan.killar@gmail.com",
+      "company": "teckhil",
+      "title": "md",
+      "group": "2",
+      "id": "VYxXVcI"
+    },
+    {
+      "name": "chirag",
+      "photo": "https://loveshayariimages.in/wp-content/uploads/2021/10/1080p-Latest-Whatsapp-Profile-Images-1.jpg",
+      "mobile": "8140205089",
+      "email": "chirag@cgamp.com",
+      "company": "infosys",
+      "title": "ceo",
+      "group": "6",
+      "id": "sK2MUQa"
+    },
+    {
+      "name": "krunal",
+      "photo": "https://i.insider.com/59b6c4bfba785e36f932a317?width=600&format=jpeg&auto=webp",
+      "mobile": "9033120588",
+      "email": "krunal@gmail.com",
+      "company": "vipro",
+      "title": "md",
+      "group": "2",
+      "id": "Vatgb_C"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Family"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Colige"
+    },
+    {
+      "id": "4",
+      "name": "Student"
+    },
+    {
+      "id": "5",
+      "name": "social"
+    },
+    {
+      "id": "6",
+      "name": "Community"
+    }
+  ]
+}
